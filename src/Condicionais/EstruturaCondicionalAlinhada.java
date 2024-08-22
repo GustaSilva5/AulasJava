@@ -1,3 +1,5 @@
+package Condicionais;
+
 public class EstruturaCondicionalAlinhada {
     public static void main (String [] args){
         /* int notaA = 7;

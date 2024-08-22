@@ -1,3 +1,5 @@
+package Condicionais;
+
 public class EstruturaCondicionalSimples {
     public static void main (String [] args) {
     //Testando apenas IF
